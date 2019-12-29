@@ -1,3 +1,8 @@
-.ipynb_checkpoints/*
+venv
+.ipynb_checkpoints
+.idea
 
 *.swp
+
+env.yaml
+env.ide

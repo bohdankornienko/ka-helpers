@@ -1,1 +1,5 @@
 requests
+ipykernel
+bs4
+selenium==4.0.0a3
+pyyaml==5.2
